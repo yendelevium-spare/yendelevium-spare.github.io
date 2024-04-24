@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0px;
+    color: white;
+    font-family: Raleway;
+}
+main{
+    margin-left:300px ;
+    background-color: rgb(224, 232, 239);
+    color: black;
+}
+section{
+    padding: 25px;
+    height: 100vh;
+    min-width: 590px;
+}
